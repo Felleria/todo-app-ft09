@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Create github repo",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Style todo app",
+      "completed": false
+    }
+  ]
+}
