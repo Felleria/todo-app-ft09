@@ -13,22 +13,42 @@
     {
       "id": "3e6a",
       "title": "Create repo",
-      "completed": false
+      "completed": true
     },
     {
       "id": "32a9",
       "title": "new todo",
-      "completed": false
+      "completed": true
     },
     {
       "id": "6995",
       "title": "new todo 2",
-      "completed": false
+      "completed": true
     },
     {
       "id": "a0ff",
       "title": "b hu",
       "completed": false
+    },
+    {
+      "id": "58b5",
+      "title": "",
+      "completed": false
+    },
+    {
+      "id": "47dc",
+      "title": "",
+      "completed": false
+    },
+    {
+      "id": "187a",
+      "title": "Wash clothes",
+      "completed": true
+    },
+    {
+      "id": "7c62",
+      "title": "clean ",
+      "completed": true
     }
   ]
 }
